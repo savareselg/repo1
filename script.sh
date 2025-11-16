@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Script per copiare tutti i file da una cartella A a una cartella B.
+# Sto usando il nuovo branch per questa modifica.
 # Definisci i percorsi delle cartelle
 CARTELLA_A="/path/to/cartella_A"
 CARTELLA_B="/path/to/cartella_B"
